@@ -1,0 +1,10 @@
+{
+  "name": "bi-immo-mobile",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
